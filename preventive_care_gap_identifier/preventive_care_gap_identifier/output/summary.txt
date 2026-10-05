@@ -1,0 +1,27 @@
+Input files not found - generating sample data...
+
+Preventive Care Gap Report (as of 2026-10-05)
+==============================================================
+Members analysed : 200
+Total care gaps  : 561
+Members with gaps: 196
+
+Service                          Eligible   Done    Rate
+--------------------------------------------------------------
+Annual Wellness Visit                 200     58     29%
+Flu Vaccine                           200     54     27%
+Mammogram                              47     11     23%
+Cervical Cancer Screening              77     19     25%
+Colorectal Cancer Screening           105     27     26%
+Cholesterol Screening                 116     41     35%
+HbA1c Test (Diabetes)                  20     11     55%
+Diabetic Eye Exam                      20      3     15%
+
+Top 5 members by number of gaps:
+  M0003  Neha Sharma          6 gaps
+  M0051  Meera Singh          6 gaps
+  M0053  Asha Iyer            6 gaps
+  M0076  Vikram Das           6 gaps
+  M0104  Sana Patel           6 gaps
+
+Detailed gap list saved to care_gaps.csv
